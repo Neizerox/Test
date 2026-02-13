@@ -1,0 +1,5 @@
+﻿  del_ayd.cpp
+C:\Users\Max\Desktop\plus\del_ayd\del_ayd.cpp(20,14): warning C4101: ws: неиспользованная локальная переменная
+C:\Users\Max\Desktop\plus\del_ayd\del_ayd.cpp(20,21): warning C4101: dig: неиспользованная локальная переменная
+C:\Users\Max\Desktop\plus\del_ayd\del_ayd.cpp(10,1): warning C4715: zapolnenie: значение возвращается не при всех путях выполнения
+  del_ayd.vcxproj -> C:\Users\Max\Desktop\plus\del_ayd\x64\Debug\del_ayd.exe
